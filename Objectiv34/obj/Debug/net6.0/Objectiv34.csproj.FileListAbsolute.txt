@@ -1,0 +1,15 @@
+D:\Документы\Рабочий стол\С#\Objectiv5\Objectiv34\obj\Debug\net6.0\Objectiv34.csproj.AssemblyReference.cache
+D:\Документы\Рабочий стол\С#\Objectiv5\Objectiv34\obj\Debug\net6.0\Objectiv34.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Рабочий стол\С#\Objectiv5\Objectiv34\obj\Debug\net6.0\Objectiv34.AssemblyInfoInputs.cache
+D:\Документы\Рабочий стол\С#\Objectiv5\Objectiv34\obj\Debug\net6.0\Objectiv34.AssemblyInfo.cs
+D:\Документы\Рабочий стол\С#\Objectiv5\Objectiv34\obj\Debug\net6.0\Objectiv34.csproj.CoreCompileInputs.cache
+D:\Документы\Рабочий стол\С#\Objectiv5\Objectiv34\bin\Debug\net6.0\Objectiv34.exe
+D:\Документы\Рабочий стол\С#\Objectiv5\Objectiv34\bin\Debug\net6.0\Objectiv34.deps.json
+D:\Документы\Рабочий стол\С#\Objectiv5\Objectiv34\bin\Debug\net6.0\Objectiv34.runtimeconfig.json
+D:\Документы\Рабочий стол\С#\Objectiv5\Objectiv34\bin\Debug\net6.0\Objectiv34.dll
+D:\Документы\Рабочий стол\С#\Objectiv5\Objectiv34\bin\Debug\net6.0\Objectiv34.pdb
+D:\Документы\Рабочий стол\С#\Objectiv5\Objectiv34\obj\Debug\net6.0\Objectiv34.dll
+D:\Документы\Рабочий стол\С#\Objectiv5\Objectiv34\obj\Debug\net6.0\refint\Objectiv34.dll
+D:\Документы\Рабочий стол\С#\Objectiv5\Objectiv34\obj\Debug\net6.0\Objectiv34.pdb
+D:\Документы\Рабочий стол\С#\Objectiv5\Objectiv34\obj\Debug\net6.0\Objectiv34.genruntimeconfig.cache
+D:\Документы\Рабочий стол\С#\Objectiv5\Objectiv34\obj\Debug\net6.0\ref\Objectiv34.dll
